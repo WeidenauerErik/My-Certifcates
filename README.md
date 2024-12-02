@@ -1,4 +1,2 @@
-# My Certificates
-
--> NSE 1-3 \n
--> ITN in coming
+# -> NSE 1-3
+# -> ITN in coming
